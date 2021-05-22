@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Suyo Patil
+- 👋 Hi, I’m Suyog Patil
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Full Stack development projects
